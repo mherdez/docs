@@ -23,6 +23,8 @@ module.exports = {
     ],
     sidebar: [
       '/',
+      '/tema01/',
+      '/tema02/',
     ]
   },
 
