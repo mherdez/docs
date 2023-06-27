@@ -25,6 +25,9 @@ module.exports = {
       '/',
       '/tema01/',
       '/tema02/',
+      '/tema03/',
+      '/tema04/',
+      '/tema05/',
     ]
   },
 
