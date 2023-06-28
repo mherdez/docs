@@ -1,7 +1,29 @@
-# Introducción
+# Elementos de línea
 
-Esta asignatura aporta al perfil del egresado la capacidad para desarrollar y administrar software que apoye la productividad y competitividad de las organizaciones cumpliendo con estándares de calidad, mediante el desarrollo de aplicaciones web utilizando lenguajes de marcas, de presentación, del lado del cliente, del servidor y con la colaboración de cómputo en la nube.
+*Para* _generar_ un nuevo párrafo en **Markdown** simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
 
-Es de suma importancia porque permite al estudiante concluir en un proyecto formal de desarrollo de software aplicando varias competencias adquiridas durante su trayectoria de formación, por ello se inserta en los últimos semestres.
+Al igual que sucede con `HTML`, ___Markdown___ no soporta dobles líneas en blanco, así que si intentas generarlas estas se convertirán en una sola al procesarse `<h1>` es un encabezado.
 
-Para adquirir la competencia planteada en esta asignatura es necesario que el estudiante haya acreditado la asignatura de Programación Orientada a Objetos, Taller de Bases de Datos y Taller de Ingeniería de Software.
+Para realizar una consulta en [Google](https://www.google.com/) debemos..... de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, <pre>tendrás que pulsar dos veces</pre> la barra espaciadora antes de pulsar una vez intro.
+
+:::tip Nota:
+ESTO ES ALGO IMPORTANTE
+:::
+
+:::warning Ojo con esto !!!!
+ESTO ES ALGO IMPORTANTE
+:::
+
+:::danger PELIGRO!!!
+ESTO ES ALGO IMPORTANTE
+:::
+
+[texto](https://www.google.com)
+
+![Photo Picsum](https://picsum.photos/200/100)
+
+<!-- ![logo ja](https://2.bp.blogspot.com/-y8yv3Hh76Ic/Ws1P1g0gX-I/AAAAAAAAkt0/FW0df_ty2IwpdcW1J6zD2Xw0nUu61UnfQCLcBGAs/s1600/logo-vector-ja-03.png) -->
+
+<center>
+<img src='https://2.bp.blogspot.com/-y8yv3Hh76Ic/Ws1P1g0gX-I/AAAAAAAAkt0/FW0df_ty2IwpdcW1J6zD2Xw0nUu61UnfQCLcBGAs/s1600/logo-vector-ja-03.png' width='150px'/>
+</center>
