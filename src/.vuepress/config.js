@@ -23,11 +23,11 @@ module.exports = {
     ],
     sidebar: [
       '/',
-      '/pages/tema01/',
-      '/pages/tema02/',
-      '/pages/tema03/',
-      '/pages/tema04/',
-      '/pages/tema05/',
+      '/contenido/tema01/',
+      '/contenido/tema02/',
+      '/contenido/tema03/',
+      '/contenido/tema04/',
+      '/contenido/tema05/',
     ]
   },
 

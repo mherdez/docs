@@ -1,8 +1,8 @@
 # Elementos de línea
 
-*Para* _generar_ un nuevo párrafo en **Markdown** simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
+*Para* _generar_ un nuevo párrafo en <span class='text-strong'>Markdown</span> simplemente separa el texto mediante una línea en blanco (pulsando dos veces intro)
 
-Al igual que sucede con `HTML`, ___Markdown___ no soporta dobles líneas en blanco, así que si intentas generarlas estas se convertirán en una sola al procesarse `<h1>` es un encabezado.
+Al igual que sucede con `HTML`, <span class='text-strong'>Markdown no soporta dobles líneas en blanco</span>, así que si intentas generarlas estas se convertirán en una sola al procesarse `<h1>` es un encabezado.
 
 Para realizar una consulta en [Google](https://www.google.com/) debemos..... de línea y empezar una frase en una línea siguiente dentro del mismo párrafo, <pre>tendrás que pulsar dos veces</pre> la barra espaciadora antes de pulsar una vez intro.
 
@@ -27,3 +27,7 @@ ESTO ES ALGO IMPORTANTE
 <center>
 <img src='https://2.bp.blogspot.com/-y8yv3Hh76Ic/Ws1P1g0gX-I/AAAAAAAAkt0/FW0df_ty2IwpdcW1J6zD2Xw0nUu61UnfQCLcBGAs/s1600/logo-vector-ja-03.png' width='150px'/>
 </center>
+
+![edificio grande](/images/edificio.jpg)
+
+<!-- <center><img src='/images/edificio.jpg' width='300px'/></center> -->
