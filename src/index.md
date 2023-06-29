@@ -28,6 +28,8 @@ ESTO ES ALGO IMPORTANTE
 <img src='https://2.bp.blogspot.com/-y8yv3Hh76Ic/Ws1P1g0gX-I/AAAAAAAAkt0/FW0df_ty2IwpdcW1J6zD2Xw0nUu61UnfQCLcBGAs/s1600/logo-vector-ja-03.png' width='150px'/>
 </center>
 
-![edificio grande](/images/edificio.jpg)
+<!-- ![edificio grande](/images/edificio.jpg) -->
 
-<!-- <center><img src='/images/edificio.jpg' width='300px'/></center> -->
+<center>
+  <img src='/images/edificio.jpg' class='custom-image'/>
+</center>
