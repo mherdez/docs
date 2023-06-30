@@ -30,6 +30,8 @@ ESTO ES ALGO IMPORTANTE
 
 <!-- ![edificio grande](/images/edificio.jpg) -->
 
+### Imagen edificio
+
 <center>
   <!-- <img src='/images/edificio.jpg' class='custom-image'/>
   <img :src="$withBase('/img/pokemones.jpg')" width='500' style='margin:30px'/> -->
