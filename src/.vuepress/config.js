@@ -1,5 +1,7 @@
 module.exports = {
 
+  dest: 'docs',
+  base: '/guia-de-programacion-web/',
   title: 'Programación Web',
   description: 'Contenido digital de la asignatura Programación Web',
 
