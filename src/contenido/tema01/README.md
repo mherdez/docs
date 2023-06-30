@@ -5,7 +5,8 @@
 ![la web](https://programacion1class.files.wordpress.com/2015/03/d8ec2-laweb.jpg)
 
 <center>
-  <img src='/images/foto.jpg' class='custom-image' alt='imagen de la chica'/>
+  <!-- <img src='/images/foto.jpg' class='custom-image' alt='imagen de la chica'/> -->
+  <img :src="$withBase('/images/foto.jpg')" class='custom-image' />
 </center>
 
 En este artículo científico, se analiza la evolución de las <span>aplicaciones</span> web dirigidas a estudiantes universitarios a lo largo del tiempo. Las <span>aplicaciones</span> web han experimentado un crecimiento significativo y han desempeñado un papel fundamental en la mejora de la experiencia de aprendizaje de los estudiantes. Se revisan las etapas clave en el desarrollo de las <span>aplicaciones</span> web para estudiantes universitarios, desde los sistemas iniciales de gestión del aprendizaje hasta las soluciones más avanzadas basadas en la nube. Además, se destacan los avances tecnológicos y las tendencias actuales en este campo, como la inteligencia artificial y el aprendizaje automático, que están transformando aún más las <span>aplicaciones</span> web para brindar un mejor apoyo a los estudiantes en su proceso educativo.
